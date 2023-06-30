@@ -11,3 +11,8 @@ The details of the given project are as follows:
 
 Midterm Project/Spring Game Jam Project      
 The theme of the Spring Game Jam was 'Inside is bigger than the outside.' Therefore, we focused on a story where a child who lost their sock enters a toy house while searching for his socks, only to find themselves in a world filled with toy creatures as the toy house suddenly grows in size.
+
+W/A/S/D --> Move      
+Z --> Attack        
+X --> Jump      
+(A/D/Left Arrow/Right Arrow) + C --> Dash    
