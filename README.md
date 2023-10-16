@@ -16,3 +16,6 @@ W/A/S/D --> Move
 Z --> Attack        
 X --> Jump      
 (A/D/Left Arrow/Right Arrow) + C --> Dash    
+
+Game Video      
+https://youtu.be/UhEIQG_j3PU
